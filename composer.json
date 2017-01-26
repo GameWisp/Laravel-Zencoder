@@ -23,9 +23,6 @@
         "rmccue/requests": ">=1.0",
         "nesbot/carbon": "1.*"
     },
-    "require-dev": {
-        "mockery/mockery": "dev-master@dev"
-    },
     "autoload": {
         "psr-4": {
             "A4M\\Zencoder\\": "src",
